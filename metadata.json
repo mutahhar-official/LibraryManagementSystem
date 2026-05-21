@@ -1,0 +1,6 @@
+{
+  "name": "Library Management System",
+  "description": "A comprehensive, high-fidelity full-stack system for managing library book inventorics, user registration, reservations, and borrowing transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
