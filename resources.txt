@@ -1,0 +1,52 @@
+[
+  {
+    "id": "978-0131103628",
+    "identifier": "978-0131103628",
+    "title": "THE C++ PROGRAMMING LANGUAGE",
+    "author": "BJARNE STROUSTRUP",
+    "category": "COMPUTER SCIENCE",
+    "totalCopies": 4,
+    "availableCopies": 3,
+    "type": "book"
+  },
+  {
+    "id": "978-0132350884",
+    "identifier": "978-0132350884",
+    "title": "CLEAN CODE",
+    "author": "ROBERT C. MARTIN",
+    "category": "SOFTWARE ENGINEERING",
+    "totalCopies": 5,
+    "availableCopies": 5,
+    "type": "book"
+  },
+  {
+    "id": "978-0321125217",
+    "identifier": "978-0321125217",
+    "title": "DESIGN PATTERNS",
+    "author": "ERICH GAMMA",
+    "category": "SOFTWARE ENGINEERING",
+    "totalCopies": 2,
+    "availableCopies": 2,
+    "type": "book"
+  },
+  {
+    "id": "1043-421X",
+    "identifier": "1043-421X",
+    "title": "C++ ADVANCED SYSTEMS JOURNAL",
+    "author": "ACM EDITORIAL",
+    "category": "COMPUTING",
+    "totalCopies": 3,
+    "availableCopies": 2,
+    "type": "magazine"
+  },
+  {
+    "id": "0018-9162",
+    "identifier": "0018-9162",
+    "title": "IEEE COMPUTER SOCIETY JOURNAL",
+    "author": "IEEE",
+    "category": "ELECTRICAL ENGINEERING",
+    "totalCopies": 2,
+    "availableCopies": 2,
+    "type": "magazine"
+  }
+]

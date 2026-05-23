@@ -1,0 +1,9 @@
+[
+  {
+    "id": "res-1",
+    "username": "BC-12345",
+    "resourceIdentifier": "978-0131103628",
+    "resourceTitle": "THE C++ PROGRAMMING LANGUAGE",
+    "resourceType": "book"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "username": "admin",
+    "firstName": "Main",
+    "lastName": "Librarian",
+    "password": "admin",
+    "role": "librarian",
+    "account": {
+      "borrowedResourcesCount": 0,
+      "returnedResourcesCount": 0,
+      "reservedResourcesCount": 0,
+      "fineAmount": 0,
+      "balance": 0
+    }
+  },
+  {
+    "username": "BC-12345",
+    "firstName": "MUHAMMAD",
+    "lastName": "ALI",
+    "password": "student123",
+    "role": "student",
+    "department": "Software Engineering",
+    "account": {
+      "borrowedResourcesCount": 1,
+      "returnedResourcesCount": 1,
+      "reservedResourcesCount": 1,
+      "fineAmount": 60,
+      "balance": 85.5
+    }
+  },
+  {
+    "username": "SE-99882",
+    "firstName": "FATIMA",
+    "lastName": "ZAHRA",
+    "password": "password",
+    "role": "student",
+    "department": "Data Science",
+    "account": {
+      "borrowedResourcesCount": 0,
+      "returnedResourcesCount": 0,
+      "reservedResourcesCount": 0,
+      "fineAmount": 0,
+      "balance": 200
+    }
+  },
+  {
+    "username": "CS-25131",
+    "firstName": "MUHAMMAD MUTAHHAR",
+    "lastName": "KHAN",
+    "password": "computer123",
+    "role": "student",
+    "department": "Computer Engineering",
+    "account": {
+      "borrowedResourcesCount": 0,
+      "returnedResourcesCount": 2,
+      "reservedResourcesCount": 0,
+      "fineAmount": 0,
+      "balance": 400
+    }
+  }
+]
