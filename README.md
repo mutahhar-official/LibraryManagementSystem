@@ -1,3 +1,5 @@
+>_Source repository: mutahhar-official_
+
 # 📚 Library Management System
 
 A comprehensive **full-stack Library Management System** built in C++ backent and react.js frontend that simulates the complete workflow of a real-world library. The system supports two types of users — **Students** and **Librarians** — and provides a full suite of features including resource management, borrowing and returning, fine handling, reservations, and detailed reporting. The project demonstrates core object-oriented programming principles including **Inheritance**, **Polymorphism (Runtime & Compile-time)**, **Encapsulation**, **Exception Handling**, **File Handling**, later enhanced with interactive Web Interface to give a Full-Stack touch.
@@ -160,6 +162,17 @@ The entry point and user interface driver. Displays a styled ASCII logo using Wi
 ## Real-World Applications
 
 This Library Management System models modern libraries in universities, schools, and public institutions. It automates cataloguing, simplifies check-out and returns, enforces borrowing rules, and reduces administrative work. Features like automatic fine calculation, reservations, and detailed borrowing records improve accountability, accessibility, and resource management—tasks that would otherwise require extensive manual effort.
+
+---
+
+## Individual Contribution
+
+| Member | Contribution |
+|------|-------------|
+| Muhammad Mutahhar Khan | Designed responsive UI Wb App including tools (Node.js, React.js, APIs) <br> Built the Date class which deals with system date + leap year in backend C++ files. |
+| Muhammad Ahsan | Managed the complete Resource functionality including polymorphic resource loading <br> Built issuedReport() and printStudentReport() for the librarian panel |
+| Muhammad Hasan | Implemented borrowResource() and returnResource() with daily borrow limit enforcement (max 2 per day) including fine calculation <br> Designed and Implemented User class. |
+| Muhammad Ubaidullah | Designed and Implemented Reservation System, Library Records and Account class <br> Wrote and executed test cases to verify integration between borrow and reservation modules |
 
 ---
 
