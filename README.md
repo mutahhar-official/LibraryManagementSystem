@@ -2,7 +2,7 @@
 
 # 📚 Library Management System
 
-A comprehensive **full-stack Library Management System** built in C++ backent and react.js frontend that simulates the complete workflow of a real-world library. The system supports two types of users — **Students** and **Librarians** — and provides a full suite of features including resource management, borrowing and returning, fine handling, reservations, and detailed reporting. The project demonstrates core object-oriented programming principles including **Inheritance**, **Polymorphism (Runtime & Compile-time)**, **Encapsulation**, **Exception Handling**, **File Handling**, later enhanced with interactive Web Interface to give a Full-Stack touch.
+A comprehensive **full-stack Library Management System** built in C++ backent and react.js frontend that simulates the complete workflow of a real-world library. The system supports two types of users — **Students** and **Librarians** — and provides a full suite of features including resource management, borrowing and returning, fine handling, reservations, and detailed reporting. The project demonstrates core object-oriented programming principles including **Inheritance**, **Polymorphism (Runtime & Compile-time)**, **Encapsulation**, **Exception Handling**, **File Handling**, later enhanced with interactive Web Interface to give a Full-Stack touch..
 
 ---
 
